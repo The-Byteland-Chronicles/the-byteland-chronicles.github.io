@@ -1,57 +1,101 @@
+# [ITA] Informativa sulla Privacy 
 
-<h1><strong>Privacy Policy for The Byteland Chronicles</strong></h1>
-<p><br /><strong>Effective Date</strong>: 22/09/2025<br /><br />At RaffaMax, we are dedicated to safeguarding the privacy and confidentiality of your personal information. This privacy policy explains how we collect, use, share, and protect your personal data when you use our mobile app, The Byteland Chronicles, and its services.</p>
-<h3><strong>Data We Collect</strong></h3>
-<p>When you use our mobile app, we may collect the following types of personal information:</p>
-<ol>
-<li><strong>Personal Data</strong><br />We collect personal information that you provide directly, such as your name, email address, phone number, and other contact details.<br /><em>Example</em>: When you sign up for an account or contact customer support, we collect your name and email address to manage your account or respond to your inquiries.</li>
-<li><strong>Account Details</strong><br />This includes the username, password, preferences, and other information necessary for creating and maintaining your account.<br /><em>Example</em>: We store your username and encrypted password to allow you to securely log in and access your personal settings and history.</li>
-<li><strong>Payment Information</strong><br />We collect payment details such as credit/debit card information, billing address, and other payment-related data when you make in-app purchases.<br /><em>Example</em>: When purchasing premium features, your payment details are securely processed through a third-party payment processor like Stripe or PayPal.</li>
-<li><strong>Device Information</strong><br />We gather technical data about your mobile device, such as device type, operating system, app version, and device identifiers like the advertising ID.<br /><em>Example</em>: We collect your device type (iPhone, Android) to ensure the app is compatible and runs smoothly on your device.</li>
-<li><strong>Location Data</strong><br />If you enable location services, we may collect your device&rsquo;s location data to provide location-based features.<br /><em>Example</em>: If your app offers services like finding nearby stores or events, we use your location data to provide the most relevant suggestions.</li>
-<li><strong>Usage Data</strong><br />We collect information about how you use our app, including the features you access, the duration of usage, and any interactions with the app.<br /><em>Example</em>: We track how often you use certain features, such as in-app purchases or notifications, to improve your experience and optimize app functionality.</li>
-</ol>
-<p>This document was generated with the use of the <a href="https://www.iubenda.com/en/help/147125">app privacy policy template.</a></p>
-<h3><strong>How We Use Your Information</strong></h3>
-<p>We use the data we collect for various purposes, including:</p>
-<ol>
-<li><strong>To Provide and Improve Our Services</strong><br />We use your information to deliver the services you request, improve app functionality, and ensure a personalized experience.<br /><em>Example</em>: Your preferences and usage data help us tailor the content and features of the app to your needs.</li>
-<li><strong>For Customer Support and Communication</strong><br />Your contact information is used to respond to support requests, send updates, and resolve any issues related to your account or app usage.<br /><em>Example</em>: If you contact support, we will use your email and other details to assist you with resolving issues.</li>
-<li><strong>To Comply with Legal Obligations</strong><br />We may use your data to comply with legal obligations, such as responding to a subpoena or protecting the rights and safety of our users.<br /><em>Example</em>: If required by law, we may disclose certain information to law enforcement or regulatory bodies.</li>
-</ol>
-<h3><strong>Legal Basis for Processing</strong></h3>
-<p>We process your data based on the following legal grounds:</p>
-<ol>
-<li><strong>Consent</strong><br />We process your personal information when you have given us explicit consent, such as agreeing to receive marketing communications or enabling location tracking.<br /><em>Example</em>: You can withdraw your consent at any time by changing your app settings or unsubscribing from emails.</li>
-<li><strong>Performance of a Contract</strong><br />We process your data to fulfill the terms of any agreements you have with us, such as when you make a purchase through the app.<br /><em>Example</em>: To complete a transaction, we use your payment information to process the purchase.</li>
-<li><strong>Legitimate Interests</strong><br />We may process your data for purposes aligned with our legitimate business interests, such as improving our app or conducting user analytics.<br /><em>Example</em>: Analyzing app usage data helps us improve the user experience and develop new features.</li>
-<li><strong>Compliance with Legal Obligations</strong><br />We may process your data to comply with legal requirements, such as tax reporting or responding to legal requests.<br /><em>Example</em>: We may store purchase records for auditing and tax purposes as required by law.</li>
-</ol>
-<h3><strong>Data Transfer Outside the EU</strong></h3>
-<p>In some cases, we may need to transfer your personal data to countries outside the European Union (EU) or the European Economic Area (EEA). These transfers may occur when our service providers or partners are located in countries outside of the EU/EEA or when we need to store or process data in global data centers. We ensure that any such transfer of your personal data is carried out in compliance with applicable data protection laws, including the General Data Protection Regulation (GDPR). To safeguard your data during these transfers, we rely on standard contractual clauses or other appropriate safeguards, ensuring that your data is protected in accordance with GDPR standards. <br /><br /><strong>Use of Trackers</strong><br />We may use tracking technologies to enhance your experience, understand how you interact with the app, and show personalized content or ads. You can manage your preferences in your device settings.</p>
-<h3><strong>Data Subject Rights</strong></h3>
-<p>Under applicable data protection laws, you have the following rights:</p>
-<ol>
-<li><strong>Access</strong><br />You can request access to the personal information we hold about you.<br /><em>Example</em>: You can ask for a copy of the data we have collected, such as your account details or transaction history.</li>
-<li><strong>Rectification</strong><br />You have the right to correct any inaccurate or incomplete data we hold about you.<br /><em>Example</em>: You can update your contact details or billing address through your app settings.</li>
-<li><strong>Erasure</strong><br />You can request the deletion of your data under certain circumstances.<br /><em>Example</em>: If you delete your account, we will erase all associated data, unless we are required to retain it for legal reasons.</li>
-<li><strong>Restriction of Processing</strong><br />You can request that we limit how we process your data in certain situations.<br /><em>Example</em>: You can request that we stop processing your data for marketing purposes.</li>
-<li><strong>Objection to Processing</strong><br />You have the right to object to the processing of your personal data, especially for marketing purposes.<br /><em>Example</em>: You can opt out of receiving marketing emails or notifications by updating your app settings.</li>
-<li><strong>Data Portability</strong><br />You can request a copy of your data in a format that allows you to transfer it to another service.<br /><em>Example</em>: You can download a copy of your data to transfer it to another app if you choose to switch services.</li>
-</ol>
-<h3><strong>Data Security</strong></h3>
-<p>We implement a range of technical and organizational measures to protect your personal data from unauthorized access, disclosure, or misuse.</p>
-<ol>
-<li><strong>Encryption</strong><br />We use encryption to protect sensitive data, such as payment information, during transmission.<br /><em>Example</em>: Your payment details are encrypted before being transmitted to payment processors for added security.</li>
-<li><strong>Access Controls</strong><br />We limit access to your personal data to only those employees and contractors who need it to perform their job functions.<br /><em>Example</em>: Only customer support staff with authorization can access your account information to assist with inquiries.</li>
-</ol>
-<h3><strong>Data Retention</strong></h3>
-<p>We retain your personal data for as long as necessary to fulfill the purposes for which it was collected, unless a longer retention period is required by law.<br /><br /><em>Example</em>: We may retain purchase history for up to 7 years for tax and financial auditing purposes.</p>
-<h3><strong>Changes to This Policy</strong></h3>
-<p>We may update this privacy policy from time to time. Any significant changes will be posted within the app or on our website, and we will update the "Effective Date" at the top of the policy.</p>
-<h3><strong>Contact Us</strong></h3>
-<p>If you have any questions or concerns about this privacy policy or how we handle your data, please contact us at:</p>
-<ul>
-<li><strong>Email</strong>: info@maxbax.it</li>
-</ul>
-<p><br />This document was generated with the use of the <a href="https://www.iubenda.com/en/help/147125">app privacy policy template.</a></p>
+**Ultimo aggiornamento:** 22/9/2025
+
+La presente Informativa sulla Privacy descrive come l’applicazione **The Byteland Chronicles** (di seguito “l’App”) raccoglie, utilizza e protegge i dati degli utenti.
+
+## 1. Raccolta dei dati
+
+L’App **non raccoglie né memorizza alcuna informazione personale identificabile** degli utenti (come nome, email, numero di telefono o altre credenziali).
+Le uniche informazioni raccolte derivano dall’uso dei servizi esterni di terze parti, come **Firebase** e **Google Analytics for Firebase**, che possono automaticamente acquisire dati anonimi relativi a:
+
+* Interazioni con l’app (eventi e utilizzo delle funzioni)
+* Prestazioni dell’app e statistiche sugli errori (crash report, bug, anomalie)
+* Informazioni di tipo tecnico e non identificativo sul dispositivo (ad esempio modello, sistema operativo, lingua, versione dell’app)
+
+Questi dati vengono trattati esclusivamente in forma aggregata e anonima.
+
+## 2. Finalità del trattamento
+
+I dati raccolti tramite Firebase e Analytics vengono utilizzati per:
+
+* Monitorare le prestazioni e migliorare l’esperienza d’uso dell’App
+* Analizzare l’utilizzo dell’App in forma statistica e anonima
+* Rilevare, diagnosticare e risolvere errori e malfunzionamenti
+* Inviare notifiche push e comunicazioni in-app (ove previsto)
+
+## 3. Condivisione dei dati
+
+I dati raccolti non vengono condivisi con soggetti terzi al di fuori dei servizi forniti da **Google Firebase** e **Google Analytics**, che li gestiscono in conformità con le loro policy.
+Puoi consultare ulteriori informazioni qui:
+
+* [Norme sulla privacy di Google](https://policies.google.com/privacy)
+* [Firebase Privacy & Security](https://firebase.google.com/support/privacy)
+
+## 4. Conservazione dei dati
+
+I dati raccolti da Firebase e Analytics vengono conservati per il tempo necessario a soddisfare le finalità sopra indicate, secondo le policy di Google. L’App non conserva dati direttamente nei propri sistemi.
+
+## 5. Diritti dell’utente
+
+Dal momento che l’App non raccoglie né gestisce dati personali identificativi, non è previsto alcun trattamento diretto soggetto a richiesta di accesso, modifica o cancellazione da parte dell’utente. Eventuali diritti relativi ai dati gestiti da Google possono essere esercitati attraverso le impostazioni del proprio account Google o contattando Google direttamente.
+
+## 6. Modifiche alla presente informativa
+
+La presente Informativa sulla Privacy potrà essere aggiornata in futuro. Eventuali modifiche saranno pubblicate all’interno di questa sezione, indicando la data di ultimo aggiornamento.
+
+## 7. Contatti
+
+Per qualsiasi domanda relativa alla presente Informativa sulla Privacy è possibile contattare lo sviluppatore all’indirizzo:
+**info@maxbax.it**
+
+# [ENG] Privacy Policy
+
+**Last updated:** 22/9/2025
+
+This Privacy Policy describes how the application **The Byteland Chronicles** (hereinafter “the App”) collects, uses, and protects user data.
+
+## 1. Data Collection
+
+The App **does not collect or store any personally identifiable information** (such as name, email, phone number, or other credentials).
+The only information collected comes from third-party services, such as **Firebase** and **Google Analytics for Firebase**, which may automatically gather anonymous data related to:
+
+* App interactions (events and feature usage)
+* App performance and error statistics (crash reports, bugs, anomalies)
+* Non-identifiable technical information about the device (e.g., model, operating system, language, app version)
+
+These data are processed only in an aggregated and anonymous form.
+
+## 2. Purpose of Data Processing
+
+The data collected via Firebase and Analytics are used to:
+
+* Monitor performance and improve the user experience of the App
+* Analyze App usage in a statistical and anonymous way
+* Detect, diagnose, and fix errors and malfunctions
+* Send push notifications and in-app communications (if applicable)
+
+## 3. Data Sharing
+
+The collected data are not shared with third parties outside of the services provided by **Google Firebase** and **Google Analytics**, which handle them in accordance with their own policies.
+For more information, please refer to:
+
+* [Google Privacy Policy](https://policies.google.com/privacy)
+* [Firebase Privacy & Security](https://firebase.google.com/support/privacy)
+
+## 4. Data Retention
+
+Data collected by Firebase and Analytics are retained only for as long as necessary to fulfill the purposes outlined above, according to Google’s policies. The App itself does not store any data directly.
+
+## 5. User Rights
+
+Since the App does not collect or process personally identifiable information, no direct data management (such as access, modification, or deletion requests) is applicable. Any rights concerning data managed by Google can be exercised through Google account settings or by contacting Google directly.
+
+## 6. Changes to This Policy
+
+This Privacy Policy may be updated in the future. Any modifications will be published in this section, with the date of the last update clearly indicated.
+
+## 7. Contact
+
+For any questions regarding this Privacy Policy, you can contact the developer at:
+**info@maxbax.it**
