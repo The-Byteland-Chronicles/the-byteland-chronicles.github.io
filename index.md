@@ -1,4 +1,3 @@
-# The Byteland Chronicles
 
 ## Chapter 1 - Assault on Code's Kingdom
 
