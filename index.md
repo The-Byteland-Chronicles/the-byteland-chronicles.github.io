@@ -7,6 +7,3 @@ In the digital world of Byteland, a parallel universe made of codes, bytes, and 
 
 [Scaricalo da Google Play Store](https://play.google.com/store/apps/details?id=org.raffamax.the_byteland_chronicles_ep1)
 
-
-| ![Screenshot1](images/liv1.png) | ![Screenshot2](images/liv2.png) | ![Screenshot3](images/liv3.png) | ![Screenshot4](images/liv4.png) |
-|--------------------|--------------------|--------------------|--------------------|
