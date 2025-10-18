@@ -1,6 +1,12 @@
 
+![The Byteland Chronicles](images/main.png)
+
 ## Chapter 1 - Assault on Code's Kingdom
 
 In the digital world of Byteland, a parallel universe made of codes, bytes, and data, peace has been maintained for centuries thanks to the balance between two fundamental powers: the Kingdom of Code and the Kingdom of Data. These two kingdoms have lived in harmony, each playing a crucial role in maintaining the stability and order of Byteland.
 
-[Google Play Store](https://play.google.com/store/apps/details?id=org.raffamax.the_byteland_chronicles_ep1)
+[Scaricalo da Google Play Store](https://play.google.com/store/apps/details?id=org.raffamax.the_byteland_chronicles_ep1)
+
+
+| ![Screenshot1](images/liv1.png) | ![Screenshot2](images/liv2.png) | ![Screenshot3](images/liv3.png) | ![Screenshot4](images/liv4.png) |
+|--------------------|--------------------|--------------------|--------------------|
