@@ -1,5 +1,6 @@
+title: The Byteland Chronicles
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 minima:
-  skin: auto # or auto if you want it to switch with your system settings.
+  skin: dark # Force dark mode for our theme
